@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\59e1915acb0d95a08e59941f24a2df13\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\cf00fb4bb0004b17fa3ffce81aa86dcc\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\b81d0717c67c3ff5837e3b52fd7aad55\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\262c0c746bd2cabe709da02a08f861fd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\59522ce0233c87ce5819e51a2cb39330\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\75eec40229c5ab223c0120eb3aaac4c3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\3d390dedad56529429535a06fe60d409\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\b9af59a5f677dd78d49becdfb3cae3bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\4334467cad2221b87a844f544404067f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\37390257a7f309531b6a873541ba6791\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\96abcc7456811cb66a3b43a1fea0f345\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\8165754adb39079c6a3dcaaa17b30bf1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\64b213173b19d00997cc4e619c6cbf14\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:3:11-48
+		INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:14:5-77
+	android:name
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:14:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:16:22-77
+application
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:18:5-43:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\59e1915acb0d95a08e59941f24a2df13\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\59e1915acb0d95a08e59941f24a2df13\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\cf00fb4bb0004b17fa3ffce81aa86dcc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\cf00fb4bb0004b17fa3ffce81aa86dcc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\b81d0717c67c3ff5837e3b52fd7aad55\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\b81d0717c67c3ff5837e3b52fd7aad55\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\262c0c746bd2cabe709da02a08f861fd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\262c0c746bd2cabe709da02a08f861fd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\59522ce0233c87ce5819e51a2cb39330\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\59522ce0233c87ce5819e51a2cb39330\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\75eec40229c5ab223c0120eb3aaac4c3\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\75eec40229c5ab223c0120eb3aaac4c3\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\3d390dedad56529429535a06fe60d409\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\3d390dedad56529429535a06fe60d409\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\4334467cad2221b87a844f544404067f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\4334467cad2221b87a844f544404067f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\37390257a7f309531b6a873541ba6791\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\37390257a7f309531b6a873541ba6791\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\96abcc7456811cb66a3b43a1fea0f345\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\96abcc7456811cb66a3b43a1fea0f345\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\8165754adb39079c6a3dcaaa17b30bf1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\8165754adb39079c6a3dcaaa17b30bf1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\64b213173b19d00997cc4e619c6cbf14\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\64b213173b19d00997cc4e619c6cbf14\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:22:9-41
+	android:fullBackupContent
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:20:9-57
+	android:icon
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:24:9-40
+activity#edu.vandy.mooc.aad_3_assg_1.assignment.activities.MainActivity
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:label
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:28:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:32:27-74
+service#edu.vandy.mooc.aad_3_assg_1.assignment.services.DownloadAtomFeedService
+ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:37:9-41:19
+	android:name
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml:38:13-72
+uses-sdk
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\59e1915acb0d95a08e59941f24a2df13\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\59e1915acb0d95a08e59941f24a2df13\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\cf00fb4bb0004b17fa3ffce81aa86dcc\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\cf00fb4bb0004b17fa3ffce81aa86dcc\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\b81d0717c67c3ff5837e3b52fd7aad55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\b81d0717c67c3ff5837e3b52fd7aad55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\262c0c746bd2cabe709da02a08f861fd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\262c0c746bd2cabe709da02a08f861fd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\59522ce0233c87ce5819e51a2cb39330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\59522ce0233c87ce5819e51a2cb39330\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\75eec40229c5ab223c0120eb3aaac4c3\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\75eec40229c5ab223c0120eb3aaac4c3\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\3d390dedad56529429535a06fe60d409\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.1.aar\3d390dedad56529429535a06fe60d409\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\b9af59a5f677dd78d49becdfb3cae3bd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\b9af59a5f677dd78d49becdfb3cae3bd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\4334467cad2221b87a844f544404067f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\4334467cad2221b87a844f544404067f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\37390257a7f309531b6a873541ba6791\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\37390257a7f309531b6a873541ba6791\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\96abcc7456811cb66a3b43a1fea0f345\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\96abcc7456811cb66a3b43a1fea0f345\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\8165754adb39079c6a3dcaaa17b30bf1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\8165754adb39079c6a3dcaaa17b30bf1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\64b213173b19d00997cc4e619c6cbf14\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\64b213173b19d00997cc4e619c6cbf14\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\59e1915acb0d95a08e59941f24a2df13\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+		ADDED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Services-LocalIPC-and-Content-Providers\assignment1\aad-3-assg-1\app\src\main\AndroidManifest.xml
